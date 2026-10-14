@@ -1,0 +1,35 @@
+Constellation Layout Editor
+
+EN
+Edit constellation node positions directly in the lobby and save an independent layout for each hero and each A-E loadout.
+
+Features
+- In-game edit mode for constellation node positions
+- Separate saved layouts for each hero
+- Separate saved layouts for each A-E loadout
+- Main constellation view and mini constellation view stay synchronized
+- Reset the current layout back to default
+- Reopen the game and keep your saved layout positions
+
+Notes
+- This mod edits node layout only
+- Extra branch nodes are supported, but each branch is currently limited to 10 visible nodes because of the original game UI limit
+- In single-player, additional nodes can function normally
+- In multiplayer, if extra nodes are added, all constellation effects will be removed; this is intentional to avoid balance-breaking behavior
+
+ZH-TW
+可在大廳直接編輯星座節點位置，並為每位角色與每個 A-E 欄位分別保存獨立版面。
+
+功能
+- 可在遊戲內使用編輯模式調整節點位置
+- 每位角色都能保存自己的獨立版面
+- 每個 A-E 欄位都能保存自己的獨立版面
+- 大盤與小盤顯示會同步
+- 可將目前版面恢復為預設位置
+- 重新開啟遊戲後仍會保留已保存的節點位置
+
+注意事項
+- 本模組主要調整節點版面，不會直接修改天賦效果
+- 可新增各分支節點數，但因原版 UI 限制，目前每個分支最多僅支援顯示 10 個節點
+- 在單人模式下，新增節點可正常生效
+- 在多人模式下，如果加入更多節點，所有天賦效果會被移除；這是刻意設計，用來避免破壞平衡

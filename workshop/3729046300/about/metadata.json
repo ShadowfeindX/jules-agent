@@ -1,0 +1,12 @@
+{
+  "id": "com.Fukurou.ConstellationLayoutEditor",
+  "name": "Constellation Layout Editor 客製化星座",
+  "author": "Fukurou",
+  "modVer": "1.0.0",
+  "supportedGameVer": [
+    "*"
+  ],
+  "assemblies": [
+    "bin/*.dll"
+  ]
+}
